@@ -20,12 +20,22 @@
 
 <h3 align="center">💻 <code>TECH_STACK.exe</code></h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,nodejs" alt="Languages" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,flask,flutter" alt="AI and Frameworks" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=gcp,mysql,sqlite,git,github,githubactions" alt="Cloud and DB" /><br/><br/>
+<div align="center">
+  <br/><b><span style="color:#00FFCC">🧬 LANGUAGES</span></b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,nodejs" alt="Languages" />
+  <br/><br/>
+
+  <b><span style="color:#FF0055">🧠 AI &amp; FRAMEWORKS</span></b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,flask,flutter" alt="AI and Frameworks" />
+  <br/><br/>
+
+  <b><span style="color:#00FFCC">☁️ CLOUD &amp; DATABASE</span></b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=gcp,mysql,sqlite,git,github,githubactions" alt="Cloud and DB" />
+  <br/><br/>
+
+  <b><span style="color:#FF0055">⚙️ HARDWARE &amp; DESIGN</span></b><br/><br/>
   <img src="https://skillicons.dev/icons?i=arduino,figma" alt="Hardware and Design" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Neon Line Divider" width="100%" />

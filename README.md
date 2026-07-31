@@ -78,9 +78,6 @@
 <h3 align="center">📊 <code>SYSTEM_METRICS</code></h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amar57603&amp;theme=radical&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15&amp;column=7" alt="GitHub Trophies" width="100%" />
-  
-  <br/><br/>
 
   <img src="https://github-readme-stats.shion.dev/api?username=amar57603&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0b0c10&amp;title_color=00FFCC&amp;text_color=FFFFFF&amp;icon_color=FF0055" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=amar57603&amp;hide_border=true&amp;background=0b0c10&amp;ring=FF0055&amp;fire=00FFCC&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00FFCC&amp;sideLabels=FF0055&amp;dates=FFFFFF" alt="GitHub Streak" width="48%" />

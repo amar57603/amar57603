@@ -22,21 +22,53 @@
 
 <div align="center">
   <br/><b><span style="color:#00FFCC">🧬 LANGUAGES</span></b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,nodejs,ts,js,html,css" alt="Languages" />
-  <br/><br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-0b0c10?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
+    <img src="https://img.shields.io/badge/C++-0b0c10?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=00599C" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-0b0c10?style=for-the-badge&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" />
+    <img src="https://img.shields.io/badge/R-0b0c10?style=for-the-badge&amp;logo=r&amp;logoColor=276DC3" alt="R" />
+    <img src="https://img.shields.io/badge/Node.js-0b0c10?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
+    <img src="https://img.shields.io/badge/TypeScript-0b0c10?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-0b0c10?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-0b0c10?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-0b0c10?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3" />
+  </p>
 
   <b><span style="color:#FF0055">🧠 AI &amp; FRAMEWORKS</span></b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,flask,flutter,react,nextjs,tailwind,vite" alt="AI and Frameworks" />
-  <br/><br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PyTorch-0b0c10?style=for-the-badge&amp;logo=pytorch&amp;logoColor=EE4C2C" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-0b0c10?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=FF6F00" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/OpenCV-0b0c10?style=for-the-badge&amp;logo=opencv&amp;logoColor=5C3EE8" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/FastAPI-0b0c10?style=for-the-badge&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Flask-0b0c10?style=for-the-badge&amp;logo=flask&amp;logoColor=FFFFFF" alt="Flask" />
+    <img src="https://img.shields.io/badge/Flutter-0b0c10?style=for-the-badge&amp;logo=flutter&amp;logoColor=02569B" alt="Flutter" />
+    <img src="https://img.shields.io/badge/React-0b0c10?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-0b0c10?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TailwindCSS-0b0c10?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=06B6D4" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Vite-0b0c10?style=for-the-badge&amp;logo=vite&amp;logoColor=646CFF" alt="Vite" />
+  </p>
 
   <b><span style="color:#00FFCC">☁️ CLOUD &amp; DATABASE</span></b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=gcp,cloudflare,supabase,mysql,sqlite,git,github,githubactions,linux" alt="Cloud and DB" />
-  <br/>
-  <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&amp;logo=upstash&amp;logoColor=white" alt="Upstash" />
-  <br/><br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google%20Cloud-0b0c10?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=4285F4" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/Cloudflare-0b0c10?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=F38020" alt="Cloudflare" />
+    <img src="https://img.shields.io/badge/Supabase-0b0c10?style=for-the-badge&amp;logo=supabase&amp;logoColor=3ECF8E" alt="Supabase" />
+    <img src="https://img.shields.io/badge/MySQL-0b0c10?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" />
+    <img src="https://img.shields.io/badge/SQLite-0b0c10?style=for-the-badge&amp;logo=sqlite&amp;logoColor=003B57" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Git-0b0c10?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-0b0c10?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-0b0c10?style=for-the-badge&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Linux-0b0c10?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
+    <img src="https://img.shields.io/badge/Upstash-0b0c10?style=for-the-badge&amp;logo=upstash&amp;logoColor=00E9A3" alt="Upstash" />
+  </p>
 
   <b><span style="color:#FF0055">⚙️ HARDWARE, TOOLS &amp; DESIGN</span></b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,figma" alt="Hardware and Design" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Arduino-0b0c10?style=for-the-badge&amp;logo=arduino&amp;logoColor=00979D" alt="Arduino" />
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-0b0c10?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=A22846" alt="Raspberry Pi" />
+    <img src="https://img.shields.io/badge/VS%20Code-0b0c10?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=007ACC" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Figma-0b0c10?style=for-the-badge&amp;logo=figma&amp;logoColor=F24E1E" alt="Figma" />
+  </p>
 </div>
 
 <p align="center">

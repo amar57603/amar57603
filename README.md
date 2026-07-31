@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Neon Line Divider" width="100%" />
+  <img src="./assets/pacman.svg" alt="Pacman Animation" width="100%" />
 </p>
 
 <h3 align="center">👾 <code>WHOAMI</code></h3>
@@ -78,10 +78,20 @@
 <h3 align="center">📊 <code>SYSTEM_METRICS</code></h3>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amar57603&amp;theme=radical&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15&amp;column=7" alt="GitHub Trophies" width="100%" />
+  
+  <br/><br/>
+
   <img src="https://github-readme-stats.shion.dev/api?username=amar57603&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0b0c10&amp;title_color=00FFCC&amp;text_color=FFFFFF&amp;icon_color=FF0055" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=amar57603&amp;hide_border=true&amp;background=0b0c10&amp;ring=FF0055&amp;fire=00FFCC&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00FFCC&amp;sideLabels=FF0055&amp;dates=FFFFFF" alt="GitHub Streak" width="48%" />
+  
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amar57603&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;bg_color=0b0c10&amp;title_color=FF0055&amp;text_color=FFFFFF" alt="Top Languages" width="50%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amar57603&amp;bg_color=0b0c10&amp;color=00FFCC&amp;line=FF0055&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph" width="100%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amar57603&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;bg_color=0b0c10&amp;title_color=FF0055&amp;text_color=FFFFFF" alt="Top Languages" width="60%" />
 </div>
 
 <p align="center">

@@ -104,4 +104,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;bg_color=0b0c10&amp;quote_color=00FFCC&amp;author_color=FF0055" alt="Dev Quote" />
   <br/><br/><br/>
   <img src="https://komarev.com/ghpvc/?username=amar57603&amp;style=for-the-badge&amp;color=FF0055&amp;label=DATA_PACKETS_RECEIVED&amp;labelColor=000000" alt="Profile Views" />
+  <br/><br/><br/>
+  <img src="./assets/mario.svg" alt="Mario Animation" width="100%" />
 </div>

@@ -22,19 +22,21 @@
 
 <div align="center">
   <br/><b><span style="color:#00FFCC">🧬 LANGUAGES</span></b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,nodejs" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,nodejs,ts,js,html,css" alt="Languages" />
   <br/><br/>
 
   <b><span style="color:#FF0055">🧠 AI &amp; FRAMEWORKS</span></b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,flask,flutter" alt="AI and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,flask,flutter,react,nextjs,tailwind,vite" alt="AI and Frameworks" />
   <br/><br/>
 
   <b><span style="color:#00FFCC">☁️ CLOUD &amp; DATABASE</span></b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=gcp,mysql,sqlite,git,github,githubactions" alt="Cloud and DB" />
+  <img src="https://skillicons.dev/icons?i=gcp,cloudflare,supabase,mysql,sqlite,git,github,githubactions,linux" alt="Cloud and DB" />
+  <br/>
+  <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&amp;logo=upstash&amp;logoColor=white" alt="Upstash" />
   <br/><br/>
 
-  <b><span style="color:#FF0055">⚙️ HARDWARE &amp; DESIGN</span></b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=arduino,figma" alt="Hardware and Design" />
+  <b><span style="color:#FF0055">⚙️ HARDWARE, TOOLS &amp; DESIGN</span></b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,figma" alt="Hardware and Design" />
 </div>
 
 <p align="center">

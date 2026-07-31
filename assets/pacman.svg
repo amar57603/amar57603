@@ -4,8 +4,9 @@
             animation: move-scene 6s linear infinite;
         }
         @keyframes move-scene {
-            0% { transform: translateX(-150px); }
-            100% { transform: translateX(950px); }
+            /* Moving from Right to Left */
+            0% { transform: translateX(850px); }
+            100% { transform: translateX(-150px); }
         }
     </style>
     
@@ -20,24 +21,24 @@
     
     <!-- Moving Scene (Pacman + Ghost) -->
     <g class="scene">
-        <!-- Ghost (Pink #FF0055) chasing from behind -->
-        <g transform="translate(-80, 0)">
-            <path d="M 40,20 q 0,-20 -15,-20 t -15,20 l 0,10 l 5,-5 l 5,5 l 5,-5 l 5,5 l 5,-5 l 5,5 z" fill="#FF0055" />
-            <!-- Eyes looking right -->
-            <circle cx="22" cy="12" r="4" fill="white" />
-            <circle cx="32" cy="12" r="4" fill="white" />
-            <circle cx="24" cy="12" r="2" fill="#00FFCC" />
-            <circle cx="34" cy="12" r="2" fill="#00FFCC" />
+        <!-- Ghost (Pink #FF0055) running away in front (on the left) -->
+        <g transform="translate(0, 0)">
+            <path d="M -40,20 q 0,-20 15,-20 t 15,20 l 0,10 l -5,-5 l -5,5 l -5,-5 l -5,5 l -5,-5 l -5,5 z" fill="#FF0055" />
+            <!-- Eyes looking left -->
+            <circle cx="-32" cy="12" r="4" fill="white" />
+            <circle cx="-18" cy="12" r="4" fill="white" />
+            <circle cx="-34" cy="12" r="2" fill="#00FFCC" />
+            <circle cx="-20" cy="12" r="2" fill="#00FFCC" />
         </g>
 
-        <!-- Pacman (Yellow) -->
-        <g transform="translate(0, 0)">
+        <!-- Pacman (Yellow) Facing Left, chasing from behind -->
+        <g transform="translate(80, 0)">
             <!-- We use SVG animate to simulate the mouth opening and closing -->
             <path fill="#FFD700">
                 <animate attributeName="d" 
-                    values="M 0,20 l 15,-15 a 20,20 0 1,0 0,30 z;
-                            M 0,20 l 15,-3 a 20,20 0 1,0 0,6 z;
-                            M 0,20 l 15,-15 a 20,20 0 1,0 0,30 z" 
+                    values="M 0,20 l -15,-15 a 20,20 0 1,1 0,30 z;
+                            M 0,20 l -15,-3 a 20,20 0 1,1 0,6 z;
+                            M 0,20 l -15,-15 a 20,20 0 1,1 0,30 z" 
                     dur="0.4s" repeatCount="indefinite" />
             </path>
         </g>

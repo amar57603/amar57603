@@ -1,109 +1,96 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=System+Initialized...;Hello,+I'm+Amar+Syakir;AI+%26+Computer+Science+Student;Welcome+to+my+Cyber_Space" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=45&duration=3000&pause=1000&color=00FFCC&background=000000&center=true&vCenter=true&width=850&height=150&lines=INITIALIZING_SYSTEM...;ACCESS_GRANTED.;WELCOME_TO_THE_CYBER_SPACE.;USER:_AMAR_SYAKIR;" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://instagram.com/am.sykr_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/amar-syakir-aaa77519b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/am.sykr_"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=FF0055" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/amar-syakir-aaa77519b/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn"></a>
 </p>
 
 ---
 
-### 👾 <code>> WHOAMI</code>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&color=00FFCC&background=000000&width=850&height=50&lines=>_WHOAMI.sh" alt="WHOAMI" />
+</div>
 
-> **SYSTEM STATUS:** ONLINE <br>
-> **USER:** `amar57603` <br>
-> **ROLE:** `AI_ENGINEER_IN_TRAINING`
-
-- 🎓 Final year student pursuing a **Bachelor of Computer Science (Artificial Intelligence)** with Honours at **Universiti Teknikal Malaysia Melaka (UTeM)**.
-- 🚀 Passionate about AI, Machine Learning, and building innovative tech solutions.
-- 💡 Exploring the intersection of deep learning, data science, and software engineering.
-
----
-
-### 💻 <code>> TECH_STACK.exe</code>
-
-<details open>
-  <summary><b>🧬 Programming Languages</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-</details>
-
-<details open>
-  <summary><b>🧠 AI, ML & Data Science</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="CUDA">
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-</details>
-
-<details open>
-  <summary><b>🛠 Frameworks & Web Tech</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</details>
-
-<details open>
-  <summary><b>🗄 Databases & Cloud</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</details>
-
-<details open>
-  <summary><b>⚙️ Tools & Others</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp">
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">
-</details>
+```text
+user@cyber-deck:~$ ./whoami.sh
+[+] SYSTEM_STATUS: ONLINE
+[+] CURRENT_LOCATION: Universiti Teknikal Malaysia Melaka (UTeM)
+[+] DIRECTIVE: Bachelor of Computer Science (Artificial Intelligence) - Honours
+[+] PASSION: AI, Machine Learning, Deep Learning, Software Engineering
+user@cyber-deck:~$ _
+```
 
 ---
-
-### 📊 <code>> SYSTEM_METRICS</code>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=amar57603&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=amar57603&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&color=FF0055&background=000000&width=850&height=50&lines=>_TECH_STACK.exe" alt="TECH_STACK" />
+</div>
+
+<div align="center">
+  
+  <br><b><span style="color:#00FFCC">🧬 LANGUAGES</span></b><br><br>
+  <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=00FFCC" alt="Python">
+  <img src="https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00FFCC" alt="C++">
+  <img src="https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=00FFCC" alt="Java">
+  <img src="https://img.shields.io/badge/r-%23000000.svg?style=for-the-badge&logo=r&logoColor=00FFCC" alt="R">
+  <img src="https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=00FFCC" alt="NodeJS">
+
+  <br><br><b><span style="color:#FF0055">🧠 AI & DATA_SCIENCE</span></b><br><br>
+  <img src="https://img.shields.io/badge/PyTorch-%23000000.svg?style=for-the-badge&logo=PyTorch&logoColor=FF0055" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-%23000000.svg?style=for-the-badge&logo=TensorFlow&logoColor=FF0055" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/opencv-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=FF0055" alt="OpenCV">
+  <img src="https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=FF0055" alt="Pandas">
+  <img src="https://img.shields.io/badge/numpy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=FF0055" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=FF0055" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/cuda-%23000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=FF0055" alt="CUDA">
+  <img src="https://img.shields.io/badge/Anaconda-%23000000.svg?style=for-the-badge&logo=anaconda&logoColor=FF0055" alt="Anaconda">
+
+  <br><br><b><span style="color:#00FFCC">🛠 FRAMEWORKS & CLOUD</span></b><br><br>
+  <img src="https://img.shields.io/badge/FastAPI-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=00FFCC" alt="FastAPI">
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=00FFCC" alt="Flask">
+  <img src="https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=Flutter&logoColor=00FFCC" alt="Flutter">
+  <img src="https://img.shields.io/badge/GoogleCloud-%23000000.svg?style=for-the-badge&logo=google-cloud&logoColor=00FFCC" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Oracle-%23000000.svg?style=for-the-badge&logo=oracle&logoColor=00FFCC" alt="Oracle">
+  <img src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=00FFCC" alt="MySQL">
+  <img src="https://img.shields.io/badge/sqlite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=00FFCC" alt="SQLite">
+
+  <br><br><b><span style="color:#FF0055">⚙️ TOOLS</span></b><br><br>
+  <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=FF0055" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=FF0055" alt="GitHub">
+  <img src="https://img.shields.io/badge/github%20actions-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=FF0055" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/-Arduino-%23000000.svg?style=for-the-badge&logo=Arduino&logoColor=FF0055" alt="Arduino">
+  <img src="https://img.shields.io/badge/power_bi-%23000000.svg?style=for-the-badge&logo=powerbi&logoColor=FF0055" alt="Power BI">
+  <img src="https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=FF0055" alt="Figma">
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&color=00FFCC&background=000000&width=850&height=50&lines=>_SYSTEM_METRICS.log" alt="SYSTEM_METRICS" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=amar57603&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=amar57603&hide_border=true&background=000000&ring=FF0055&fire=00FFCC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFCC&sideLabels=FF0055&dates=FFFFFF" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amar57603&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-### 📡 <code>> TERMINAL_OUTPUT</code>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amar57603&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=FF0055&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amar57603&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&color=FF0055&background=000000&width=850&height=50&lines=>_TERMINAL_OUTPUT.sh" alt="TERMINAL_OUTPUT" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=000000&quote_color=00FFCC&author_color=FF0055" alt="Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amar57603&style=for-the-badge&color=FF0055&label=DATA_PACKETS_RECEIVED&labelColor=000000" alt="Profile Views" />
 </div>

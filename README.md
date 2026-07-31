@@ -6,28 +6,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Neon Line Divider" width="100%" />
 </p>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="60%" valign="top">
-      <h3 align="center">👾 <code>WHOAMI</code></h3>
-      <p>
-        I am a final-year <b>Computer Science &amp; AI</b> student at <i>Universiti Teknikal Malaysia Melaka (UTeM)</i>. <br/><br/>
-        My architecture is built around <b>Machine Learning</b>, <b>Data Science</b>, and crafting elegant software solutions. I thrive at the intersection of deep learning algorithms and scalable cloud infrastructure.
-      </p>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <h3 align="center">🔗 <code>NEURAL_LINKS</code></h3>
-      <br/>
-      <a href="https://instagram.com/am.sykr_">
-        <img src="https://img.shields.io/badge/-Instagram-0b0c10?style=for-the-badge&amp;logo=instagram&amp;logoColor=FF0055" alt="Instagram" />
-      </a>
-      <br/><br/>
-      <a href="https://www.linkedin.com/in/amar-syakir-aaa77519b/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0b0c10?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00FFCC" alt="LinkedIn" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h3 align="center">👾 <code>WHOAMI</code></h3>
+
+<p align="center">
+  I am a final-year <b>Computer Science &amp; AI</b> student at <i>Universiti Teknikal Malaysia Melaka (UTeM)</i>. <br/><br/>
+  My architecture is built around <b>Machine Learning</b>, <b>Data Science</b>, and crafting elegant software solutions.<br/>
+  I thrive at the intersection of deep learning algorithms and scalable cloud infrastructure.
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Neon Line Divider" width="100%" />

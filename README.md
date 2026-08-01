@@ -19,7 +19,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <img src="./info-card.svg" alt="Info Card" width="100%" />
+      <img src="./info-card.svg?v=2" alt="Info Card" width="100%" />
     </td>
   </tr>
 </table>

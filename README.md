@@ -8,11 +8,22 @@
 
 <h3 align="center">👾 <code>WHOAMI</code></h3>
 
-<p align="center">
-  I am a final-year <b>Computer Science &amp; AI</b> student at <i>Universiti Teknikal Malaysia Melaka (UTeM)</i>. <br/><br/>
-  My architecture is built around <b>Machine Learning</b>, <b>Data Science</b>, and crafting elegant software solutions.<br/>
-  I thrive at the intersection of deep learning algorithms and scalable cloud infrastructure.
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p align="center">
+        I am a final-year <b>Computer Science &amp; AI</b> student at <i>Universiti Teknikal Malaysia Melaka (UTeM)</i>. <br/><br/>
+        My architecture is built around <b>Machine Learning</b>, <b>Data Science</b>, and crafting elegant software solutions.<br/>
+        I thrive at the intersection of deep learning algorithms and scalable cloud infrastructure.
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="./info-card.svg" alt="Info Card" width="100%" />
+    </td>
+  </tr>
+</table>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Neon Line Divider" width="100%" />
@@ -106,7 +117,7 @@
   
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amar57603&amp;bg_color=0b0c10&amp;color=00FFCC&amp;line=FF0055&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="./contrib-heatmap.svg" alt="Contribution Heatmap" width="100%" />
 
   <br/><br/>
 

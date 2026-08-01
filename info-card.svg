@@ -1,29 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="280">
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="280" viewBox="0 0 490 280">
   <defs>
     <style>
-      .bg { fill: #0b0c10; stroke: #FF0055; stroke-width: 1px; rx: 8px; }
-      .text { font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 14px; }
-      .title { fill: #00FFCC; font-weight: bold; }
-      .sep { fill: #FF0055; }
-      .key { fill: #FF0055; }
-      .val { fill: #FFFFFF; }
-      
       .line {
         opacity: 0;
-        animation: fadeSlide 0.5s ease-out forwards;
+        animation: fadeIn 0.5s ease-out forwards;
       }
-      
-      @keyframes fadeSlide {
-        from {
-          opacity: 0;
-          transform: translateY(-5px);
-        }
-        to {
-          opacity: 1;
-          transform: translateY(0);
-        }
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
       }
-      
       .l0 { animation-delay: 0.0s; }
       .l1 { animation-delay: 0.15s; }
       .l2 { animation-delay: 0.30s; }
@@ -35,35 +20,15 @@
     </style>
   </defs>
 
-  <rect width="100%" height="100%" class="bg" />
+  <rect width="490" height="280" rx="8" fill="#0b0c10" stroke="#FF0055" stroke-width="1"/>
 
-  <g transform="translate(20, 40)" class="text">
-    <g class="line l0"><text class="title">amar57603@github</text></g>
-    <g class="line l1" transform="translate(0, 20)"><text class="sep">─────────────────────</text></g>
-    
-    <g class="line l2" transform="translate(0, 50)">
-      <text class="key">Role</text>
-      <text class="val" x="65">Final-year CS &amp; AI @ UTeM</text>
-    </g>
-    <g class="line l3" transform="translate(0, 80)">
-      <text class="key">Focus</text>
-      <text class="val" x="65">Machine Learning, Data Science</text>
-    </g>
-    <g class="line l4" transform="translate(0, 110)">
-      <text class="key">Stack</text>
-      <text class="val" x="65">Python · PyTorch · TensorFlow · React · Next.js</text>
-    </g>
-    <g class="line l5" transform="translate(0, 140)">
-      <text class="key">Cloud</text>
-      <text class="val" x="65">GCP · Cloudflare · Supabase · Upstash</text>
-    </g>
-    <g class="line l6" transform="translate(0, 170)">
-      <text class="key">Tools</text>
-      <text class="val" x="65">Arduino · Raspberry Pi · Linux</text>
-    </g>
-    <g class="line l7" transform="translate(0, 200)">
-      <text class="key">Editor</text>
-      <text class="val" x="65">VS Code</text>
-    </g>
-  </g>
+  <text x="20" y="40" font-family="Consolas, Monaco, monospace" font-size="14" font-weight="bold" fill="#00FFCC" class="line l0">amar57603@github</text>
+  <text x="20" y="60" font-family="Consolas, Monaco, monospace" font-size="14" fill="#FF0055" class="line l1">─────────────────────</text>
+
+  <text x="20" y="90" font-family="Consolas, Monaco, monospace" font-size="14" fill="#FF0055" class="line l2">Role     <tspan fill="#FFFFFF">Final-year CS &amp; AI @ UTeM</tspan></text>
+  <text x="20" y="120" font-family="Consolas, Monaco, monospace" font-size="14" fill="#FF0055" class="line l3">Focus    <tspan fill="#FFFFFF">Machine Learning, Data Science</tspan></text>
+  <text x="20" y="150" font-family="Consolas, Monaco, monospace" font-size="14" fill="#FF0055" class="line l4">Stack    <tspan fill="#FFFFFF">Python · PyTorch · TensorFlow</tspan></text>
+  <text x="20" y="180" font-family="Consolas, Monaco, monospace" font-size="14" fill="#FF0055" class="line l5">Cloud    <tspan fill="#FFFFFF">GCP · Cloudflare · Supabase</tspan></text>
+  <text x="20" y="210" font-family="Consolas, Monaco, monospace" font-size="14" fill="#FF0055" class="line l6">Tools    <tspan fill="#FFFFFF">Arduino · Raspberry Pi · Linux</tspan></text>
+  <text x="20" y="240" font-family="Consolas, Monaco, monospace" font-size="14" fill="#FF0055" class="line l7">Editor   <tspan fill="#FFFFFF">VS Code</tspan></text>
 </svg>

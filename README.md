@@ -75,6 +75,28 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Neon Line Divider" width="100%" />
 </p>
 
+<h3 align="center">🚀 <code>FEATURED_PROJECTS</code></h3>
+
+<div align="center">
+  <a href="https://github.com/amar57603/portfolio">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=amar57603&amp;repo=portfolio&amp;hide_border=true&amp;bg_color=0b0c10&amp;title_color=00FFCC&amp;text_color=FFFFFF&amp;icon_color=FF0055" alt="Portfolio" width="48%" />
+  </a>
+  <a href="https://github.com/amar57603/recyling_robot">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=amar57603&amp;repo=recyling_robot&amp;hide_border=true&amp;bg_color=0b0c10&amp;title_color=00FFCC&amp;text_color=FFFFFF&amp;icon_color=FF0055" alt="Recycling Robot" width="48%" />
+  </a>
+</div>
+
+<h3 align="center">🔮 <code>UPCOMING_PROJECTS</code></h3>
+
+<div align="center">
+  <i><span style="color:#FFFFFF">Booting next-gen algorithms...</span></i><br/><br/>
+  <b>Snake &amp; Ladder AI Agent</b> - <span style="color:#FF0055">[ IN DEVELOPMENT ]</span>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Neon Line Divider" width="100%" />
+</p>
+
 <h3 align="center">📊 <code>SYSTEM_METRICS</code></h3>
 
 <div align="center">
